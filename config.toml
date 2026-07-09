@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "PRINT3DMETAL"
 
 [params]
+ogImage       = "/images/13-batch-build-plate-overhead.png"
   description = "Metal additive manufacturing news, research, and services. DMLS, SLM, EBM coverage for aerospace, medical, and industrial applications."
   siteName = "PRINT3DMETAL"
 logoHtml = 'PRINT<span class="ed-logo-accent">3D</span>METAL'
